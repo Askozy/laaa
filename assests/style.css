@@ -1,0 +1,102 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(233, 215, 193);
+    
+    
+}
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+/*header//////////////////////////////////*/
+.container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.month_container {
+    max-width: 900px;
+    margin: 0 auto;
+    width: 100%;
+}
+.june {
+    height: 100vh;
+    width: 100%;
+     background: url("../images/june.png");
+     background-size: cover;
+    
+}
+.july {
+    height: 100vh;
+    width: 100%;
+    background: url("../images/july.jpg");
+    background-size: cover;
+}
+.august {
+    height: 100vh;
+    width: 100%;
+     background: url("../images/august.jpg");
+     background-size: cover;
+}
+.title_container {
+     background-color: bisque;
+}
+.title {
+    margin: 0 auto;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+   
+}
+
+.month {
+    color: #fff;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center; 
+    background-color: rgba(48, 42, 42, 0.438);
+    font-weight: 300;
+}
+.month_text1 {
+    color: #fff;
+    text-shadow: 1px 2px 3px #000;
+    font-size: 18px;
+
+}
+.month_text2 {
+    color: #fff;
+    text-shadow: 1px 2px 3px #000;
+    font-weight: 400;
+
+}
+.img_jn {
+    margin: 20px auto;
+    font-size: 18px;
+    width: 700px;
+    
+}
+.img_jn1 {
+    margin: 10px auto;
+    font-size: 18px;
+    width: 700px;
+}
+.jn_img {
+    width: 250px;
+    
+    margin-right: 100px;
+}
+.jn_img1 {
+    width: 250px;
+    margin-left: 100px;
+    
+}
+.jn_img2 {
+    width: 230px;
+    
+    margin-right: 100px;
+}
+.jn_img12 {
+ width: 230px;
+    margin-left: 100px;
+}
